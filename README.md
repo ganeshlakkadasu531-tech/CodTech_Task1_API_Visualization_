@@ -39,7 +39,7 @@ The goal is to demonstrate:
 ---
 
 
-### 🖼️ Sample Output
+###  Output
 
 #### Temperature Trend
 
