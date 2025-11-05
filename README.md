@@ -1,4 +1,4 @@
-## Task1_APIVisualization
+## Task1
 Internship Task 1: API Integration and Data Visualization using Python
 
 COMPANY : CODTECH IT SOLUTIONS
