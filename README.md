@@ -43,14 +43,14 @@ The goal is to demonstrate:
 
 #### Temperature Trend
 
-![Temperature Trend](temperature_trend.png)
+![Temperature Trend](output1.png)
 
 #### Humidity Trend
 
-![Humidity Trend](humidity_trend.png)
+![Humidity Trend](output2.png)
 
 #### Pressure Trend
 
-![Pressure Trend](pressure_trend.png)
+![Pressure Trend](output3.png)
 
 
